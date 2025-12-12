@@ -13,9 +13,6 @@ I am currently focused on improving my skills in:
 
 ---
 
-### 🚀 My Skills (Badges)
-
-
 ## 🚀 My Skills (Badges)
 
 | Category | Languages & Frameworks | Tools & Platforms |
