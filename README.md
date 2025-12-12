@@ -6,7 +6,7 @@ I am a Flutter Developer with a passion for Flutter and mobile development.
 
 I am currently focused on improving my skills in:
 
-- 🎯 **Continuous Learning:** [e.g., Flutter and Dart] to create high-performance applications.
+- 🎯 **Continuous Learning:** Flutter and Dart to create high-performance applications.
 - 🏢 **Work/Study:** IFB - Computer Science.
 - 🌱 **Current Goal:** 10 Projects by the End of the Year.
 - 🤝 **Looking to Collaborate on:** Projects in the areas of flutter/dart/firebase/js.
