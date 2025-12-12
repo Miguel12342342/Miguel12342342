@@ -15,9 +15,6 @@ I am currently focused on improving my skills in:
 
 ### 🚀 My Skills (Badges)
 
-> Badges are small "badges" that make your profile more visual and professional.
-> **Tip:** You can use sites like [shields.io](https://shields.io/) or search for "Markdown Badges" for more options.
-
 | Category | Languages & Frameworks | Tools & Platforms |
 | :--- | :--- | :--- |
 | **Mobile** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> | <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> |
@@ -27,15 +24,3 @@ I am currently focused on improving my skills in:
 
 ---
 
-### 📊 GitHub Stats (Optional, but Visual)
-
-> These "cards" dynamically display your statistics and most-used languages. You need to use a link from a service that generates this automatically (like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)).
-
-```markdown
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue&include_all_commits=true&count_private=true)" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue)" alt="Top Languages" />
-</p>
