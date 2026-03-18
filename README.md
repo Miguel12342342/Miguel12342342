@@ -2,6 +2,12 @@
 
 ### Mid-Level Software Developer | Flutter Specialist | AI & Cloud Enthusiast
 
+<p align="center">
+    <a href="https://github.com/Miguel12342342">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Expert;Mobile+Developer;Kotlin%20|%20Flutter%20|%20Next+Enthusiast;Dart%20|%20AI%20|%20Clean+Code%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+    </a>
+</p>
+
 I am a Software Developer with a solid academic background in Computer Science and over 4 years of experience building scalable, high-performance applications. My expertise lies in the Flutter/Dart ecosystem, with a strong transition into Full-Stack (React/Node) and AI-driven solutions.
 
 I am currently focused 🎯 on improving my skills in:
