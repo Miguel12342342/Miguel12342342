@@ -12,7 +12,6 @@ I am a Software Developer with a solid academic background in Computer Science a
 
 I am currently focused 🎯 on improving my skills in:
 
-- 🏢 Academic: B.S. in Computer Science at IFB (Class of 2025).
 - 🌱 Current Goal: Mastering Model Context Protocol (MCP) and AI Agents integration.
 - 🤝 Open to Collaborate on: Advanced Flutter projects, AI-powered Web Apps, and Cloud Architecture.
 
